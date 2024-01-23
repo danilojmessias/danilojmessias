@@ -3,7 +3,7 @@
 I’m Danilo, tech enthusiast and programming student.
 
 
-- 🔭 I’m currently working with Web Development (PHP, JavaScript and React with NextJS).
+- 🔭 I’m currently working with Web Development (React JS) and Mobile Development (Flutter)
 - 🌱 I’m currently study Software Analysis and Development.
 <br>
 
